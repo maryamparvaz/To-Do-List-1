@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+        font-family: cursive;
+}
+
+.__li {
+        width: 100%;
+        font-size: 20px;
+        display: flex;
+        word-break: break-all;
+}
