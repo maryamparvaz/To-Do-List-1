@@ -3,7 +3,7 @@
 
 - Developed by Maryam Parvaz 🙎
 
-- Created - 2023-9-23
+- Created - 2023-9-23.
 
 - Technologies Used - java script , Html , css , tailwind 😍
 
